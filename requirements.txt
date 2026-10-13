@@ -1,0 +1,17 @@
+# Built and tested on Google Colab (T4 GPU). Versions are not pinned except where noted.
+coqui-tts
+transformers<5
+peft
+datasets
+accelerate
+bitsandbytes
+noisereduce
+librosa
+soundfile
+jiwer
+speechbrain
+gradio
+# RAG notebook only
+sentence-transformers
+faiss-cpu
+requests
