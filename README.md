@@ -237,7 +237,3 @@ Speaker similarity mainly reflects timbre, so it does not show accent drift. Acc
 ## 12. Licenses and credits
 
 Check each license before reuse. XTTS-v2 uses the Coqui Public Model License (non-commercial). Qwen2.5, TinyStories, sentence-transformers, and SpeechBrain have their own licenses on their model and dataset pages. The fairy tales come from Project Gutenberg (public domain).
-
-## 13. Author
-
-_Your name, LinkedIn, and contact link_
